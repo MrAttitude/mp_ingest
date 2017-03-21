@@ -1,0 +1,14 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:32772/mpIngest",
+  "public": "../public/",
+  "tmdbAPIKey": "d5b74486083c54ac9594b8578c209a12",
+  "tmdbBaseURL":"https://api.themoviedb.org/3/",
+  "auth": {
+    "token": {
+      "secret": "bT0EcuYlFS9PGFXqWwhMw411NUBQb4fQVheF02tRnhlAVmQvMK+dKh+ZkvvoGbX0ItgiwjfwKNR9f/3Iwp+5uQ=="
+    },
+    "local": {}
+  }
+}
